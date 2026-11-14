@@ -41,18 +41,14 @@ The function must return a Boolean value (True/False).  Output is handled by the
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-14T05:44:02.440Z  
+**Submitted:** 2026-11-14T05:44:49.153Z  
 
 ```py
 def is_leap(year):
-    #leap = False
     if year%4==0:
         return True
     else:
         return False
-    # Write your logic here
-    
-    #return leap
 
 
 ```
