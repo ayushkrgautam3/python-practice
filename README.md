@@ -1,18 +1,49 @@
-# Python Practice
+<div align="center">
 
-This repository contains beginner Python programs and mini projects.
-It helps in learning Python basics, logic building, and practical programming.
+# 🧠 Coding Solutions
 
-## Skills Practiced:
-- Python basics (variables, loops, conditions)
-- Functions
-- Lists, tuples, dictionaries
-- File handling
-- Simple mini projects
+![Total Solved](https://img.shields.io/badge/Total_Solved-1-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-1_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-11--14--2026-green?style=for-the-badge)
 
-## Projects Included:
-1. Student Record System
-2. Basic Programs (Even/Odd, Sum, Factorial, etc.)
-3. Intermediate Programs (Fibonacci, Prime check, Sorting, etc.)
+> 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
+</div>
 
+---
+
+## 📊 Stats
+
+| Difficulty | Solved |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **1** |
+| 🔴 Hard | **0** |
+| **Total** | **1** |
+
+## 🛠️ Languages
+
+| Language | Solutions |
+|:---:|:---:|
+| Python | **1** |
+
+## 📂 Repository Structure
+
+```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
+
+<div align="center">
+
+*Last updated: 2026-11-14* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+
+</div>
